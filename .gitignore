@@ -1,0 +1,11 @@
+mysite/_pyache_/*
+
+berita/migrations/*
+berita/_pyache_/*
+
+pengguna/migrations/*
+pengguna/_pyache_/*
+
+.DS_Store
+
+.env
